@@ -1,2 +1,1 @@
-# toogoodbruhm.github.io
-mobile website
+# tgbsite.github.io
