@@ -64,6 +64,7 @@ if (screen.width > 1081) {
     <div class="neighborhood-guides">
       <div class ="container">
         <p><a href="/iOS_12_Beta_Profile.mobileconfig" file>iOS 12 Developer beta Profile</a></p>
+        <p><a href="/macOSDeveloperBetaAccessUtility.dmg" file>macOS Mojave Developer Beta Access Utility</a></p>
       </div>
       </div>
     </body>
